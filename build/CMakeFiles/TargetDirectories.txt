@@ -1,0 +1,3 @@
+D:/codeblocks/puzzle/build/CMakeFiles/puzzle.dir
+D:/codeblocks/puzzle/build/CMakeFiles/edit_cache.dir
+D:/codeblocks/puzzle/build/CMakeFiles/rebuild_cache.dir
