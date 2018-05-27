@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1526475567 source:d:\puzzle\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
+1527375823 source:l:\usb\system\puzzle\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+
+1527081372 source:f:\usb\system\puzzle\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+
